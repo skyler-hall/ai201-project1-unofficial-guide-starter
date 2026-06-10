@@ -1,0 +1,40 @@
+Professor: Antonio Hernandez
+Department: Computer Science
+School: Florida International University
+Overall Quality: 4.3/5 | Would Take Again: 84% | Difficulty: 2.5/5
+Total Ratings: 79
+
+---
+Course: COP4534
+Date: May 5, 2026
+Quality: 5.0 | Difficulty: 2.0
+Just an absolutely amazing professor. Gives great lectures, homework is spread out through the semester, and quizzes and tests are all based on slides covered in class and Canvas. If you're looking for an interesting elective class with easy grading, pick this class.
+Tags: Amazing lectures, Clear grading criteria, Caring
+
+---
+Course: CAP5738
+Date: Apr 14, 2026
+Quality: 5.0 | Difficulty: 3.0
+Dr. Hernandez was one of my favorites in undergrad and it was lovely taking him again. Really interesting course material, although the more heady stuff isn't really tested on; most of the tests have more to do with R programming. Attendance isn't mandatory but can get you extra credit. There are two group projects but they're manageable.
+Tags: Group projects, Caring, Graded by few things
+
+---
+Course: COP3530
+Date: Apr 3, 2026
+Quality: 2.0 | Difficulty: 3.0
+Goes too fast over the slides, class starts difficult and with zero background. No extra credit, and he acts like he cares but doesn't. Gives the same answer for students struggling: just review the slides.
+Tags: Tough grader, Test heavy
+
+---
+Course: COP3530
+Date: Jan 14, 2026
+Quality: 5.0 | Difficulty: 2.0
+TAKE HIM 100%!! He's the best professor there is.
+Tags: Amazing lectures, Clear grading criteria, Inspirational
+
+---
+Course: COP3530
+Date: Dec 22, 2025
+Quality: 5.0 | Difficulty: 2.0
+The class was great overall. No extra credits, 15% midterm, 25% final, 4 assignments. The only issue with this professor is he doesn't release the correct answers for each exam so you would have no idea where you missed. He is caring, easy to communicate, and nice. Exam questions are directly from the lectures.
+Tags: N/A

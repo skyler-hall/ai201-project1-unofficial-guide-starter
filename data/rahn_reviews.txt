@@ -1,0 +1,40 @@
+Professor: Caryl Rahn
+Department: Computer Science
+School: Florida International University
+Overall Quality: 2.1/5 | Would Take Again: 26% | Difficulty: 3.7/5
+Total Ratings: 179
+
+---
+Course: CGS3095
+Date: Mar 22, 2026
+Quality: 1.0 | Difficulty: 3.0
+Avoid like the plague. Capricious grader - deducted points from a rubric category for reasons unrelated to the specified grading criterion. Trust me, students have no real recourse disputing her grading; even an obvious smoking gun was not conceded up to the provost. These are the facts.
+Tags: N/A
+
+---
+Course: CDA3102
+Date: Jan 28, 2026
+Quality: 1.0 | Difficulty: 3.0
+Just don't. Save yourself.
+Tags: N/A
+
+---
+Course: CGS3095
+Date: Dec 15, 2025
+Quality: 5.0 | Difficulty: 2.0
+Honestly when reading the reviews I was a bit worried about this class. But after taking this class, I will say she is very forgiving. As long as you do the work assigned, she will give you a forgiving grade. I will say though my experience may not be similar to others, however she grades rather strictly so abide by her rules and you will pass.
+Tags: Tough grader, Get ready to read, Clear grading criteria
+
+---
+Course: CDA3102
+Date: Dec 11, 2025
+Quality: 5.0 | Difficulty: 2.0
+Specifically for this course, I loved this professor. It was essentially 4 different assignments per month for 4 months, 16 total. Each was individually small, like a discussion, reading, assignment, and infinitely re-doable quiz. If you use the zyBook textbook and use AI as a back-and-forth tutor, it's easy to go through the class and understand things.
+Tags: Get ready to read, Clear grading criteria, Graded by few things
+
+---
+Course: COP4338
+Date: Dec 11, 2025
+Quality: 5.0 | Difficulty: 1.0
+Awesome professor! Drops 5 grades overall which is plenty, very easy assignments and few tests, and she quite literally tells you how you can do everything. She's very particular on HOW you need to submit an assignment and that's what many complain about but it's quite easy. Assignments are done through the ocelot server in terminal.
+Tags: Clear grading criteria, Gives good feedback

@@ -1,0 +1,40 @@
+Professor: Hafiz Mahmood Malik
+Department: Computer Science
+School: Florida International University
+Overall Quality: 3.6/5 | Would Take Again: 69% | Difficulty: 3.0/5
+Total Ratings: 16
+
+---
+Course: COP2210
+Date: May 28, 2026
+Quality: 4.0 | Difficulty: 2.0
+Took him for spring 2026. Homework can be a lot but can be helpful at times. Some of the quiz problems are from homework. Remember that! Quizzes and exams aren't hard if you look at the lectures and practice.
+Tags: Amazing lectures, Lots of homework, Respected
+
+---
+Course: COP2250
+Date: Mar 12, 2026
+Quality: 5.0 | Difficulty: 1.0
+A lot of extra credit opportunities. Class is a bit test heavy but the tests are not that tough. There are exam reviews before the test, if you practice those questions you can score good on exams.
+Tags: Extra credit, Test heavy
+
+---
+Course: COP2250
+Date: Dec 9, 2025
+Quality: 5.0 | Difficulty: 3.0
+Class was tough but fair. Zybooks is your primary resource in the class for learning and there are some varied assignments with two exams, a midterm and a final. Professor is a fair grader and the class is not too difficult if you study.
+Tags: Get ready to read, Lots of homework, Online Savvy
+
+---
+Course: COP2250
+Date: Oct 19, 2025
+Quality: 2.0 | Difficulty: 5.0
+Such a sweet man but not a good teacher. He goes way too fast and expects us to understand complicated material after seeing it one time. His quizzes and tests are difficult to pass, even when attending tutoring, lectures, completing the assignments, and studying on my own time. It was way too much course work. Don't take unless you know Java.
+Tags: Tough grader, Get ready to read, Test heavy
+
+---
+Course: COP2210
+Date: Apr 26, 2025
+Quality: 4.0 | Difficulty: 3.0
+Very clear and concise Canvas, cool guy but I think that the quizzes are weighted too heavily and are more tricky than the exams. Overall though a good class and I learned a ton.
+Tags: Clear grading criteria, Graded by few things, Online Savvy
